@@ -14,9 +14,9 @@ There are 5 folders of each character: Rick, Morty, Meeseeks, Summer and Poopybu
 I tried to delete the duplicated images and images with more than one character inside, but then again I am lazy so not all data are cleaned
 
 ### References:
-* (PyImageSearch tutorial)[https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/?__s=7inmkdkdpxwkmixwf3kb]
-* (Bing Search API and look for relevant documentations)[https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/]
+* [PyImageSearch tutorial](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/?__s=7inmkdkdpxwkmixwf3kb)
+* [Bing Search API and look for relevant documentations](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/)
 
 ### Update:
-I uploaded the full image dataset on Kaggle: (Rick and Morty characters)[https://www.kaggle.com/yoongtran/rick-and-morty-characters]
+I uploaded the full image dataset on Kaggle: [Rick and Morty characters](https://www.kaggle.com/yoongtran/rick-and-morty-characters)
 Have fun downloading and inputting into the classifier!
